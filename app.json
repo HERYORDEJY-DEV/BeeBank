@@ -1,0 +1,12 @@
+{
+  "name": "BeeBank",
+  "displayName": "BeeBank",
+  "expo": {
+    "name": "BeeBank",
+    "slug": "BeeBank",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
