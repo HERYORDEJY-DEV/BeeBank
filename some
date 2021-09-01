@@ -1,0 +1,17 @@
+import * as React from 'react';
+import * as RN from 'react-native';
+
+import * as NB from 'native-base';
+import { RFValue } from 'react-native-responsive-fontsize';
+
+interface Props {
+
+}
+
+export const HomeHeader: React.FC<Props>(props) => {
+  return <RN.View style={styles.container}></RN.View>;
+}
+
+const styles = RN.StyleSheet.create({
+  container: {},
+});
